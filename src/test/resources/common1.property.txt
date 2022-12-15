@@ -1,0 +1,5 @@
+browser chrome
+url https://firelawn.com/
+mail vickydadannavar@gmail.com
+password 9740792108
+timeout 20
